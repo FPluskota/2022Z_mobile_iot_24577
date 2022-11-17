@@ -1,4 +1,4 @@
-﻿namespace MyFirstMauiApp;
+namespace MyFirstMauiApp;
 
 public partial class AppShell : Shell
 {

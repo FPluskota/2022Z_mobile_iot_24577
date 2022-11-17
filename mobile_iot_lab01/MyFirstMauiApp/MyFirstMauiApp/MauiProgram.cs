@@ -1,4 +1,4 @@
-﻿namespace MyFirstMauiApp;
+namespace MyFirstMauiApp;
 
 public static class MauiProgram
 {
